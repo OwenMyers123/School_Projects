@@ -1,3 +1,5 @@
+My portfolio is currently quite sparse but I intend to add to it in the future once I track down old projects and school work.
+
 I found this old animation I made for a computer graphics course. I am still tracking down the code but if I remember correctly it was made using
 WebGL so it is part JavaScript and part HTML.
 
